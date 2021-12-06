@@ -8,7 +8,6 @@ GUI was originally forked from [labelImg](https://github.com/tzutalin/labelImg) 
 |  Branch  |                     Status                     |
 |----------|------------------------------------------------|
 | master   |[![codecov](https://codecov.io/gh/rjdbcm/BEAGLES/branch/master/graph/badge.svg)](https://codecov.io/gh/rjdbcm/BEAGLES)[![Documentation Status](https://readthedocs.org/projects/beagles/badge/?version=stable)](https://beagles.readthedocs.io/en/stable/?badge=stable)[![Build Status](https://travis-ci.com/rjdbcm/BEAGLES.svg?branch=master)](https://travis-ci.com/rjdbcm/BEAGLES)
-| dev      |[![codecov](https://codecov.io/gh/rjdbcm/BEAGLES/branch/dev/graph/badge.svg)](https://codecov.io/gh/rjdbcm/BEAGLES)[![Documentation Status](https://readthedocs.org/projects/beagles/badge/?version=latest)](https://beagles.readthedocs.io/en/latest/?badge=latest)[![Build Status](https://travis-ci.com/rjdbcm/BEAGLES.svg?branch=dev)](https://travis-ci.com/rjdbcm/BEAGLES)
 
 ## Created Using
 
